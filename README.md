@@ -8,4 +8,4 @@ Bindings:
 
 Git:
 * Current branch displayed in airline
-* Left-side Yellow/Green/Red icons indicates Modified/New/Deleted lines
+* Left-side Yellow/Green/Red icons indicates Modified/New/Deleted lines from git diff
