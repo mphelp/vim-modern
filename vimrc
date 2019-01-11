@@ -50,8 +50,11 @@ let g:lightline={ 'colorscheme': 'quantum' }
 " noremap <Leader>y "*y
 " noremap <Leader>p "*p
 
-"""""""""""""""""""""""""""""""
+" Vim gitgutter options:
+let g:gitgutter_realtime = 0
+let g:gitgutter_eager = 0
 
+"""""""""""""""""""""""""""""""
 
 " disable bells
 autocmd! GUIEnter * set vb t_vb=
