@@ -5,6 +5,7 @@ Bindings:
 * `Ctrl+b` - show bookmarks
 * `Ctrl+k` in visual mode - comment block
 * `Ctrl+o` and `Ctrl+p` - switch between buffers
+* `Ctrl+q` - close current buffer
 
 Git:
 * Current branch displayed in airline
